@@ -1,0 +1,77 @@
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\csc.exe
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\vbc.exe
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\VBCSCompiler.exe
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\BadAPISolution.UI.dll.config
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\BadAPISolution.UI.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\BadAPISolution.UI.pdb
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Helpers.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Mvc.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Razor.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Webpages.Deployment.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Webpages.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Webpages.Razor.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Razor.xml
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Webpages.xml
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Webpages.Deployment.xml
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Webpages.Razor.xml
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Helpers.xml
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\System.Web.Mvc.xml
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\obj\Debug\BadAPISolution.UI.csprojResolveAssemblyReference.cache
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\obj\Debug\BadAPISolution.UI.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\obj\Debug\BadAPISolution.UI.pdb
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\GridMvc.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\Mvc.Grid.Core.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\BadAPISolution.BusinessComponent.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\BadAPISolution.BusinessEntities.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\BadAPISolution.BusinessComponent.pdb
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.UI\bin\BadAPISolution.BusinessEntities.pdb
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\csc.exe
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\vbc.exe
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\BadAPISolution.UI.dll.config
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\BadAPISolution.UI.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\BadAPISolution.UI.pdb
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\BadAPISolution.BusinessComponent.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\BadAPISolution.BusinessEntities.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\Mvc.Grid.Core.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Helpers.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Mvc.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Razor.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Webpages.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\BadAPISolution.BusinessComponent.pdb
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\BadAPISolution.BusinessEntities.pdb
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Razor.xml
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Webpages.xml
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Helpers.xml
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\bin\System.Web.Mvc.xml
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\obj\Debug\BadAPISolution.UI.csprojResolveAssemblyReference.cache
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\obj\Debug\BadAPISolution.UI.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.UI\obj\Debug\BadAPISolution.UI.pdb

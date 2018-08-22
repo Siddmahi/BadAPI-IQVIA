@@ -1,0 +1,14 @@
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessComponent\obj\Debug\BadAPISolution.BusinessComponent.csprojResolveAssemblyReference.cache
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessComponent\bin\Debug\BadAPISolution.BusinessComponent.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessComponent\bin\Debug\BadAPISolution.BusinessComponent.pdb
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessComponent\bin\Debug\BadAPISolution.BusinessEntities.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessComponent\bin\Debug\BadAPISolution.BusinessEntities.pdb
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessComponent\obj\Debug\BadAPISolution.BusinessComponent.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessComponent\obj\Debug\BadAPISolution.BusinessComponent.pdb
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessComponent\bin\Debug\BadAPISolution.BusinessComponent.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessComponent\bin\Debug\BadAPISolution.BusinessComponent.pdb
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessComponent\bin\Debug\BadAPISolution.BusinessEntities.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessComponent\bin\Debug\BadAPISolution.BusinessEntities.pdb
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessComponent\obj\Debug\BadAPISolution.BusinessComponent.csprojResolveAssemblyReference.cache
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessComponent\obj\Debug\BadAPISolution.BusinessComponent.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessComponent\obj\Debug\BadAPISolution.BusinessComponent.pdb

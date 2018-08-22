@@ -1,0 +1,10 @@
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessEntities\bin\Debug\BadAPISolution.BusinessEntities.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessEntities\bin\Debug\BadAPISolution.BusinessEntities.pdb
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessEntities\obj\Debug\BadAPISolution.BusinessEntities.csprojResolveAssemblyReference.cache
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessEntities\obj\Debug\BadAPISolution.BusinessEntities.dll
+c:\users\x8v2\documents\visual studio 2015\Projects\BadAPISolution.UI\BadAPISolution.BusinessEntities\obj\Debug\BadAPISolution.BusinessEntities.pdb
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessEntities\bin\Debug\BadAPISolution.BusinessEntities.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessEntities\bin\Debug\BadAPISolution.BusinessEntities.pdb
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessEntities\obj\Debug\BadAPISolution.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessEntities\obj\Debug\BadAPISolution.BusinessEntities.dll
+C:\Users\Siddharth\Downloads\Compressed\BadAPISolution.BusinessComponent\BadAPISolution.BusinessEntities\obj\Debug\BadAPISolution.BusinessEntities.pdb
